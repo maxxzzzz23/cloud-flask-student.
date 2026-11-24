@@ -24,7 +24,7 @@ def hello():
     </head>
     <body><main>
         <h1>Приложение работает в облаке!</h1>
-        <p>Flask-приложение успешно запущено.</p>
+        <p>Flask-приложение успешно запущено. CI/CD проверен!</p>
         <p>Переменная окружения <code>MY_SECRET_MESSAGE</code>:
            <strong>{secret}</strong></p>
     </main></body>
